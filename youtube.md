@@ -45,3 +45,5 @@ https://www.youtube.com/@CodeBullet (AI and Game Development)
 https://www.youtube.com/@Cosines (Math)
 
 https://www.youtube.com/@ByteByteGo (System Design & CSF)
+
+https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&ab_channel=AbdulBari (Introduction To Algorithms)
