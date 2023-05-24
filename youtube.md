@@ -47,3 +47,5 @@ https://www.youtube.com/@Cosines (Math)
 https://www.youtube.com/@ByteByteGo (System Design & CSF)
 
 https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&ab_channel=AbdulBari (Introduction To Algorithms)
+
+https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr (Computer Stuff They Didn't Teach You)
